@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @adamemadibrahim
-- 👀 I’m interested in crypto
-- 🌱 I’m currently learning kotlin, solidity, python
-- 💞️ I’m looking to collaborate on Defi projects
+- 👋 Hi, I’m Adam Ibraheem
+- 👀 I’m interested in AI
 - 📫 How to reach me adam.emad.ibrahim.2004@gmail.com
 
 <!---
